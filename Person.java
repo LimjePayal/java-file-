@@ -21,8 +21,4 @@ class Person {
         p1.display();
         p2.display();
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> f0158c8446ec761590f6e991ee1f481f9e17b10b
